@@ -1,0 +1,14 @@
+{
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "main": "fizzbuzz.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node fizzbuzz.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.0",
+    "jsdom": "^16.4.0",
+    "prompt": "^1.0.0"
+  }
+}
